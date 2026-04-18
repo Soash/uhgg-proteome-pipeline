@@ -127,8 +127,9 @@ diamond blastp -q blast/queries.fasta -d blast/uhgg_db -o blast/results.tsv -f 6
 If you prefer standard NCBI BLAST, you must uncompress the database first.
 
 ```bash
-# Unzip for standard BLAST
 mkdir -p blast
+
+# Unzip for standard BLAST
 gunzip -c UHGG.fasta.gz > blast/UHGG.fasta
 
 # Build BLAST database
