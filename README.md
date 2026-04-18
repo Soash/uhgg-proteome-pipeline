@@ -27,7 +27,7 @@ Retrieve the v2.0.2 UHGG metadata containing **289,231** human gut genomes.
 wget https://ftp.ebi.ac.uk/pub/databases/metagenomics/mgnify_genomes/human-gut/v2.0.2/genomes-all_metadata.tsv
 ```
 ```bash
-tail -n +2 genomes-all_metadata.tsv | wc -l # 289,231
+tail -n +2 genomes-all_metadata.tsv | wc -l # 289231
 ```
 
 ### 2. Parse Species Names
@@ -76,8 +76,7 @@ Extract all `.faa` (FASTA amino acid) files from the downloaded archives and mer
 chmod +x extract_proteins.sh
 ./extract_proteins.sh
 
-# 2401130
-grep -c "^>" UHGG.fasta
+grep -c "^>" UHGG.fasta # 2401130
 
 # Compress the final 2.4M+ sequence database
 gzip UHGG.fasta
