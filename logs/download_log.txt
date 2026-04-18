@@ -1,0 +1,867 @@
+----- Acinetobacter mesopotamicus -----
+Error: There are no genome assemblies that match your query.
+Please try again using different search criteria.
+
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Acutalibacter timonensis -----
+Error: The taxonomy name 'Acutalibacter timonensis' is not exact. Try using one of the suggested taxids:
+Acutalibacter (genus, taxid: 1918385, firmicutes)
+Acutalibacter phage Fontainebleau (species, taxid: 2951965, viruses)
+unclassified Acutalibacter (no-rank, taxid: 2620728, firmicutes)
+Candidatus Acutalibacter stercorigallinarum (species, taxid: 2838420, firmicutes)
+Candidatus Acutalibacter pullicola (species, taxid: 2838417, firmicutes)
+Acutalibacter muris (species, taxid: 1796620, firmicutes)
+Candidatus Acutalibacter pullistercoris (species, taxid: 2838418, firmicutes)
+Candidatus Acutalibacter ornithocaccae (species, taxid: 2838416, firmicutes)
+uncultured Acutalibacter sp. (species, taxid: 1918638, firmicutes)
+Candidatus Acutalibacter stercoravium (species, taxid: 2838419, firmicutes)
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Adlercreutzia celatus -----
+Error: The taxonomy name 'Adlercreutzia celatus' is not exact. Try using one of the suggested taxids:
+Adlercreutzia (genus, taxid: 447020, actinobacteria)
+Parvibacter caecicola (species, taxid: 747645, Adlercreutzia caecicola)
+Adlercreutzia mucosicola (species, taxid: 580026, actinobacteria)
+uncultured Adlercreutzia sp. (species, taxid: 875803, actinobacteria)
+Adlercreutzia wanghongyangiae (species, taxid: 3111451, Adlercreutzia sp. R7)
+Adlercreutzia shanghongiae (species, taxid: 3111773, Adlercreutzia sp. R25)
+unclassified Adlercreutzia (no-rank, taxid: 2636013, actinobacteria)
+Adlercreutzia muris (species, taxid: 1796610, actinobacteria)
+Adlercreutzia equolifaciens (species, taxid: 446660, actinobacteria)
+Adlercreutzia rubneri (species, taxid: 2916441, actinobacteria)
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Allisonella pneumosintes -----
+Error: The taxonomy name 'Allisonella pneumosintes' is not exact. Try using one of the suggested taxids:
+Dialister (genus, taxid: 39948, Allisonella)
+Dialister histaminiformans (species, taxid: 209880, Allisonella histaminiformans)
+Dialister sp. (species, taxid: 1955814, Allisonella sp.)
+unclassified Dialister (no-rank, taxid: 2638756, unclassified Allisonella)
+uncultured Dialister sp. (species, taxid: 278064, uncultured Allisonella sp.)
+Dialister pneumosintes (species, taxid: 39950, firmicutes)
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Amulumruptor caecigallinarius -----
+Error: There are no genome assemblies that match your query.
+Please try again using different search criteria.
+
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Anaeroglobus massiliensis -----
+Error: The taxonomy name 'Anaeroglobus massiliensis' is not exact. Try using one of the suggested taxids:
+Megasphaera (genus, taxid: 906, Anaeroglobus)
+Megasphaera geminata (species, taxid: 156456, Anaeroglobus geminatus)
+unclassified Megasphaera (no-rank, taxid: 2626256, unclassified Anaeroglobus)
+Megasphaera sp. (species, taxid: 2023260, Anaeroglobus sp.)
+uncultured Megasphaera sp. (species, taxid: 165188, uncultured Anaeroglobus sp.)
+Megasphaera geminata F0357 (strain, taxid: 861450, Anaeroglobus geminatus F0357)
+Akkermansia massiliensis (species, taxid: 2927224, verrucomicrobia)
+Phocaeicola massiliensis (species, taxid: 204516, CFB group bacteria)
+Merdimmobilis hominis (species, taxid: 2897707, Phocea massiliensis)
+Ureibacillus massiliensis (species, taxid: 292806, firmicutes)
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Anaeroglobus micronuciformis -----
+Error: The taxonomy name 'Anaeroglobus micronuciformis' is not exact. Try using one of the suggested taxids:
+Megasphaera (genus, taxid: 906, Anaeroglobus)
+Megasphaera geminata (species, taxid: 156456, Anaeroglobus geminatus)
+unclassified Megasphaera (no-rank, taxid: 2626256, unclassified Anaeroglobus)
+Megasphaera sp. (species, taxid: 2023260, Anaeroglobus sp.)
+uncultured Megasphaera sp. (species, taxid: 165188, uncultured Anaeroglobus sp.)
+Megasphaera geminata F0357 (strain, taxid: 861450, Anaeroglobus geminatus F0357)
+Megasphaera micronuciformis (species, taxid: 187326, firmicutes)
+Megasphaera micronuciformis F0359 (strain, taxid: 706434, Megasphaera micronuciformis str. F0359)
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Anaerotruncus massiliensis -----
+Error: There are no genome assemblies that match your query.
+Please try again using different search criteria.
+
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Arachnia massiliensis -----
+Error: The taxonomy name 'Arachnia massiliensis' is not exact. Try using one of the suggested taxids:
+Arachnia (genus, taxid: 2801844, high G+C Gram-positive bacteria)
+unclassified Arachnia (no-rank, taxid: 2801845, high G+C Gram-positive bacteria)
+Arachnia rubra (species, taxid: 1547448, high G+C Gram-positive bacteria)
+Arachnia propionica (species, taxid: 1750, high G+C Gram-positive bacteria)
+uncultured Arachnia sp. (species, taxid: 2801848, high G+C Gram-positive bacteria)
+Arachnia sp. (species, taxid: 2801846, high G+C Gram-positive bacteria)
+Arachnia propionica F0230a (strain, taxid: 767029, high G+C Gram-positive bacteria)
+Arachnia propionica NBRC 14587 (strain, taxid: 1218109, high G+C Gram-positive bacteria)
+Akkermansia massiliensis (species, taxid: 2927224, verrucomicrobia)
+Phocaeicola massiliensis (species, taxid: 204516, CFB group bacteria)
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Bacteroides pectinophilus -----
+Error: There are no genome assemblies that match your query.
+Please try again using different search criteria.
+
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Bariatricus comes -----
+Error: The taxonomy name 'Bariatricus comes' is not exact. Try using one of the suggested taxids:
+Bariatricus (genus, taxid: 1924081, firmicutes)
+unclassified Bariatricus (no-rank, taxid: 2677046, firmicutes)
+Candidatus Bariatricus faecipullorum (species, taxid: 2838476, firmicutes)
+uncultured Bariatricus sp. (species, taxid: 1924086, firmicutes)
+Bariatricus massiliensis (species, taxid: 1745713, firmicutes)
+Bariatricus sp. (species, taxid: 1924083, firmicutes)
+Bariatricus sp. HCP3S3_E12 (species, taxid: 3438906, firmicutes)
+Bariatricus sp. HCP28S3_H2 (species, taxid: 3438905, firmicutes)
+Bariatricus sp. HCP28S3_F11 (species, taxid: 3438904, firmicutes)
+Bariatricus sp. HCP28S3_E4 (species, taxid: 3438903, firmicutes)
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Bifidobacterium gallinarum -----
+Error: There are no genome assemblies that match your query.
+Please try again using different search criteria.
+
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Bifidobacterium infantis -----
+Error: There are no genome assemblies that match your query.
+Please try again using different search criteria.
+
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Bifidobacterium vaginale -----
+Error: The taxonomy name 'Bifidobacterium vaginale' is not exact. Try using one of the suggested taxids:
+Bifidobacterium (genus, taxid: 1678, high G+C Gram-positive bacteria)
+Bifidobacterium animalis subsp. lactis (subspecies, taxid: 302911, Bifidobacterium lactis)
+Bifidobacterium catenulatum subsp. kashiwanohense (subspecies, taxid: 630129, Bifidobacterium kashiwanohense)
+Bifidobacterium longum subsp. infantis (subspecies, taxid: 1682, Bifidobacterium infantis)
+Bifidobacterium adolescentis (species, taxid: 1680, Bifidobacterium stercoris)
+Bifidobacterium pseudolongum subsp. globosum (subspecies, taxid: 1690, Bifidobacterium globosum)
+Bifidobacterium bifidum (species, taxid: 1681, high G+C Gram-positive bacteria)
+Bifidobacterium breve (species, taxid: 1685, high G+C Gram-positive bacteria)
+Bifidobacterium longum (species, taxid: 216816, high G+C Gram-positive bacteria)
+Bifidobacterium longum subsp. suis (subspecies, taxid: 1695, Bifidobacterium suis)
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Bittarella massiliensis -----
+Error: The taxonomy name 'Bittarella massiliensis' is not exact. Try using one of the suggested taxids:
+Bittarella massiliensis (ex Durand et al. 2017) (species, taxid: 1720313, firmicutes)
+unclassified Bittarella (no-rank, taxid: 2623325, firmicutes)
+Bittarella sp. HCP28S3_D9 (species, taxid: 3440253, firmicutes)
+Bittarella (ex Durand et al. 2017) (genus, taxid: 1929297, firmicutes)
+Akkermansia massiliensis (species, taxid: 2927224, verrucomicrobia)
+Phocaeicola massiliensis (species, taxid: 204516, CFB group bacteria)
+Merdimmobilis hominis (species, taxid: 2897707, Phocea massiliensis)
+Ureibacillus massiliensis (species, taxid: 292806, firmicutes)
+Paenibacillus massiliensis (species, taxid: 225917, firmicutes)
+Anaerosalibacter massiliensis (species, taxid: 1347392, firmicutes)
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Blautia massiliensis -----
+Error: The taxonomy name 'Blautia massiliensis' is not exact. Try using one of the suggested taxids:
+Blautia massiliensis (ex Durand et al. 2017) (species, taxid: 1737424, firmicutes)
+Blautia massiliensis (ex Liu et al. 2021) (species, taxid: 3062492, firmicutes)
+Blautia (genus, taxid: 572511, firmicutes)
+Blautia producta (species, taxid: 33035, Blautia coccoides)
+unclassified Blautia (no-rank, taxid: 2648079, firmicutes)
+Blautia glucerasea (species, taxid: 536633, Blautia glucerasei)
+Candidatus Apopatocola equi (species, taxid: 3083046, Blautia equi)
+Blautia caccae (species, taxid: 3133175, Blautia ifemia)
+Blautia wexlerae (species, taxid: 418240, firmicutes)
+Blautia hansenii (species, taxid: 1322, firmicutes)
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Borkfalkia ceftriaxoniphila -----
+Error: The taxonomy name 'Borkfalkia ceftriaxoniphila' is not exact. Try using one of the suggested taxids:
+Candidatus Borkfalkia (genus, taxid: 2508948, Borkfalkia)
+Candidatus Borkfalkia ceftriaxoniphila (species, taxid: 2508949, firmicutes)
+Candidatus Borkfalkia sp. (species, taxid: 2773924, Borkfalkia sp.)
+unclassified Candidatus Borkfalkia (no-rank, taxid: 2773923, unclassified Borkfalkia)
+Candidatus Borkfalkia excrementipullorum (species, taxid: 2838507, firmicutes)
+Candidatus Borkfalkia faecipullorum (species, taxid: 2838510, firmicutes)
+Candidatus Borkfalkia stercoripullorum (species, taxid: 2838511, firmicutes)
+Candidatus Borkfalkia excrementigallinarum (species, taxid: 2838506, firmicutes)
+Candidatus Borkfalkia faecavium (species, taxid: 2838508, firmicutes)
+Candidatus Borkfalkia faecigallinarum (species, taxid: 2838509, firmicutes)
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Bulleidia massiliensis -----
+Error: The taxonomy name 'Bulleidia massiliensis' is not exact. Try using one of the suggested taxids:
+Bulleidia (genus, taxid: 118747, firmicutes)
+unclassified Bulleidia (no-rank, taxid: 2704656, firmicutes)
+Bulleidia extructa (species, taxid: 118748, firmicutes)
+uncultured Bulleidia sp. (species, taxid: 316098, firmicutes)
+Bulleidia sp. (species, taxid: 2704657, firmicutes)
+Bulleidia extructa W1219 (strain, taxid: 679192, Bulleidia extructa str. W1219)
+Bulleidia sp. HCP3S3_G12 (species, taxid: 3438916, firmicutes)
+Bulleidia sp. HCP3S3_C9 (species, taxid: 3438914, firmicutes)
+Bulleidia sp. HCP3S3_F2 (species, taxid: 3438915, firmicutes)
+Bulleidia sp. zg-1006 (species, taxid: 2806552, firmicutes)
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Bulleidia moorei -----
+Error: The taxonomy name 'Bulleidia moorei' is not exact. Try using one of the suggested taxids:
+Bulleidia (genus, taxid: 118747, firmicutes)
+unclassified Bulleidia (no-rank, taxid: 2704656, firmicutes)
+Bulleidia extructa (species, taxid: 118748, firmicutes)
+uncultured Bulleidia sp. (species, taxid: 316098, firmicutes)
+Bulleidia sp. (species, taxid: 2704657, firmicutes)
+Bulleidia extructa W1219 (strain, taxid: 679192, Bulleidia extructa str. W1219)
+Bulleidia sp. HCP3S3_G12 (species, taxid: 3438916, firmicutes)
+Bulleidia sp. HCP3S3_C9 (species, taxid: 3438914, firmicutes)
+Bulleidia sp. HCP3S3_F2 (species, taxid: 3438915, firmicutes)
+Bulleidia sp. zg-1006 (species, taxid: 2806552, firmicutes)
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Caecibacter hominis -----
+Error: The taxonomy name 'Caecibacter hominis' is not exact. Try using one of the suggested taxids:
+Caecibacter (genus, taxid: 1980685, firmicutes)
+unclassified Caecibacter (no-rank, taxid: 2641573, firmicutes)
+Caecibacter sp. (species, taxid: 1980687, firmicutes)
+Caecibacter massiliensis (species, taxid: 1852378, firmicutes)
+Caecibacter sp. AF58-12pH5A (species, taxid: 2998824, firmicutes)
+Caecibacter sp. AFF13-5A (species, taxid: 2998826, firmicutes)
+Caecibacter sp. AF67-8-b12A (species, taxid: 2998825, firmicutes)
+Hepacivirus hominis (species, taxid: 3052230, viruses)
+Metamycoplasma hominis (species, taxid: 2098, bacteria)
+Staphylococcus hominis (species, taxid: 1290, firmicutes)
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Caecibacter massiliensis -----
+Error: There are no genome assemblies that match your query.
+Please try again using different search criteria.
+
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Campylobacter testudinum -----
+Error: The taxonomy name 'Campylobacter testudinum' is not exact. Try using one of the suggested taxids:
+Campylobacter (genus, taxid: 194, e-proteobacteria)
+Helicobacter pylori (species, taxid: 210, Campylobacter pylori)
+Campylobacter fetus (species, taxid: 196, e-proteobacteria)
+Campylobacter coli (species, taxid: 195, e-proteobacteria)
+Campylobacter lari (species, taxid: 201, Campylobacter laridis)
+Campylobacter jejuni (species, taxid: 197, e-proteobacteria)
+Campylobacter concisus (species, taxid: 199, e-proteobacteria)
+Campylobacter upsaliensis (species, taxid: 28080, e-proteobacteria)
+Campylobacter ureolyticus (species, taxid: 827, e-proteobacteria)
+Helicobacter cinaedi (species, taxid: 213, Campylobacter cinaedi)
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Centipeda artemidis -----
+Error: The taxonomy name 'Centipeda artemidis' is not exact. Try using one of the suggested taxids:
+Centipeda (genus, taxid: 82202, firmicutes)
+unclassified Centipeda (in: firmicutes) (no-rank, taxid: 2688325, firmicutes)
+uncultured Centipeda sp. (species, taxid: 794850, firmicutes)
+Centipeda periodontii (species, taxid: 82203, firmicutes)
+Centipeda periodontii DSM 2778 (strain, taxid: 888060, Centipeda periodontii str. DSM 2778)
+Centipeda sp. (in: firmicutes) (species, taxid: 2046249, firmicutes)
+Selenomonas artemidis (species, taxid: 671224, firmicutes)
+Selenomonas artemidis F0399 (strain, taxid: 749551, firmicutes)
+Selenomonas artemidis DSM 19719 (strain, taxid: 1123249, firmicutes)
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Clostridium amazonitimonense -----
+Error: There are no genome assemblies that match your query.
+Please try again using different search criteria.
+
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Clostridium leptum -----
+Error: There are no genome assemblies that match your query.
+Please try again using different search criteria.
+
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Collinsella ihuae -----
+Error: There are no genome assemblies that match your query.
+Please try again using different search criteria.
+
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Enterocloster aldenensis -----
+Error: There are no genome assemblies that match your query.
+Please try again using different search criteria.
+
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Enterococcus pernyi -----
+Error: There are no genome assemblies that match your query.
+Please try again using different search criteria.
+
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Enterovibrio hollisae -----
+Error: The taxonomy name 'Enterovibrio hollisae' is not exact. Try using one of the suggested taxids:
+Enterovibrio (genus, taxid: 188143, g-proteobacteria)
+Candidatus Enterovibrio escicola (species, taxid: 1927127, Enterovibrio escicola)
+Veronia pacifica (species, taxid: 1080227, Enterovibrio pacificus)
+Enterovibrio qingdaonensis (species, taxid: 2899818, Enterovibrio sp. ZSDZ35)
+Enterovibrio baiacu (species, taxid: 2491023, Enterovibrio sp. A649)
+Enterovibrio litoreus (species, taxid: 3241166, Enterovibrio sp. 27052020O)
+Candidatus Enterovibrio altilux (species, taxid: 1927128, g-proteobacteria)
+unclassified Enterovibrio (no-rank, taxid: 2641261, g-proteobacteria)
+Enterovibrio norvegicus (species, taxid: 188144, g-proteobacteria)
+Enterovibrio sp. (species, taxid: 1902814, g-proteobacteria)
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Erysipelatoclostridium saccharogumia -----
+Error: The taxonomy name 'Erysipelatoclostridium saccharogumia' is not exact. Try using one of the suggested taxids:
+Thomasclavelia (genus, taxid: 3025755, Erysipelatoclostridium)
+Thomasclavelia ramosa (species, taxid: 1547, Erysipelatoclostridium ramosum)
+Thomasclavelia sp. (species, taxid: 3025757, Erysipelatoclostridium sp.)
+unclassified Thomasclavelia (no-rank, taxid: 3025756, unclassified Erysipelatoclostridium)
+Faecalibacillus faecis (species, taxid: 1982628, Erysipelatoclostridium sp. SNUG30370)
+Clostridium fessum (species, taxid: 2126740, Erysipelatoclostridium sp. SNUG30386)
+Candidatus Erysipelatoclostridium merdavium (species, taxid: 2838566, firmicutes)
+Erysipelatoclostridium sp. An173 (species, taxid: 1965571, firmicutes)
+Faecalibacillus intestinalis (species, taxid: 1982626, Erysipelatoclostridium sp. SNUG30099)
+uncultured Thomasclavelia sp. (species, taxid: 3025759, uncultured Erysipelatoclostridium sp.)
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Erysipelatoclostridium spiroforme -----
+Error: The taxonomy name 'Erysipelatoclostridium spiroforme' is not exact. Try using one of the suggested taxids:
+Thomasclavelia (genus, taxid: 3025755, Erysipelatoclostridium)
+Thomasclavelia ramosa (species, taxid: 1547, Erysipelatoclostridium ramosum)
+Thomasclavelia sp. (species, taxid: 3025757, Erysipelatoclostridium sp.)
+unclassified Thomasclavelia (no-rank, taxid: 3025756, unclassified Erysipelatoclostridium)
+Faecalibacillus faecis (species, taxid: 1982628, Erysipelatoclostridium sp. SNUG30370)
+Clostridium fessum (species, taxid: 2126740, Erysipelatoclostridium sp. SNUG30386)
+Candidatus Erysipelatoclostridium merdavium (species, taxid: 2838566, firmicutes)
+Erysipelatoclostridium sp. An173 (species, taxid: 1965571, firmicutes)
+Faecalibacillus intestinalis (species, taxid: 1982626, Erysipelatoclostridium sp. SNUG30099)
+uncultured Thomasclavelia sp. (species, taxid: 3025759, uncultured Erysipelatoclostridium sp.)
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Eubacterium saphenum -----
+Error: There are no genome assemblies that match your query.
+Please try again using different search criteria.
+
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Extibacter hylemonae -----
+Error: The taxonomy name 'Extibacter hylemonae' is not exact. Try using one of the suggested taxids:
+Extibacter (genus, taxid: 1918452, firmicutes)
+unclassified Extibacter (no-rank, taxid: 2632637, firmicutes)
+Extibacter muris (species, taxid: 1796622, firmicutes)
+Extibacter sp. GGCC_0201 (species, taxid: 2731209, firmicutes)
+[Clostridium] hylemonae (species, taxid: 89153, firmicutes)
+[Clostridium] hylemonae DSM 15053 (strain, taxid: 553973, firmicutes)
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Ezakiella massiliensis -----
+Error: There are no genome assemblies that match your query.
+Please try again using different search criteria.
+
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Faecalimonas phoceensis -----
+Error: The taxonomy name 'Faecalimonas phoceensis' is not exact. Try using one of the suggested taxids:
+Faecalimonas (genus, taxid: 2005355, firmicutes)
+unclassified Faecalimonas (no-rank, taxid: 2624616, firmicutes)
+Faecalimonas nexilis (species, taxid: 29361, firmicutes)
+Faecalimonas umbilicata (species, taxid: 1912855, firmicutes)
+uncultured Faecalimonas sp. (species, taxid: 2005358, firmicutes)
+Faecalimonas hominis (species, taxid: 3380807, Faecalimonas sp. OB7656)
+Faecalimonas canis (species, taxid: 1912090, firmicutes)
+Faecalimonas sp. (species, taxid: 2005356, firmicutes)
+Faecalimonas sp. LCP19S3_D12 (species, taxid: 3438781, firmicutes)
+Clostridium phoceensis (species, taxid: 1650661, firmicutes)
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Ferdinandcohnia timonensis -----
+Error: The taxonomy name 'Ferdinandcohnia timonensis' is not exact. Try using one of the suggested taxids:
+Fredinandcohnia humi (species, taxid: 263474, Ferdinandcohnia humi)
+Fredinandcohnia salidurans (species, taxid: 2595041, Ferdinandcohnia salidurans)
+Fredinandcohnia (genus, taxid: 2837501, Ferdinandcohnia corrig.)
+Litchfieldia sinesaloumensis (species, taxid: 1926280, Ferdinandcohnia sinesaloumensis)
+Fredinandcohnia onubensis (species, taxid: 1571209, Ferdinandcohnia onubensis)
+Fredinandcohnia aciditolerans (species, taxid: 72581, Ferdinandcohnia aciditolerans)
+Fredinandcohnia quinoae (species, taxid: 2918902, Ferdinandcohnia sp. SECRCQ15)
+Ferdinandcohnia sp. SAFN-114 (species, taxid: 3387275, firmicutes)
+Ferdinandcohnia sp. Marseille-Q9671 (species, taxid: 3449452, firmicutes)
+Hoylesella timonensis (species, taxid: 386414, CFB group bacteria)
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Fermentimonas caenicola -----
+Error: There are no genome assemblies that match your query.
+Please try again using different search criteria.
+
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Gastranaerophilus phascolarctosicola -----
+Error: There are no genome assemblies that match your query.
+Please try again using different search criteria.
+
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Gemmiger variabilis -----
+Error: The taxonomy name 'Gemmiger variabilis' is not exact. Try using one of the suggested taxids:
+Gemmiger (genus, taxid: 204475, firmicutes)
+Candidatus Gemmiger stercorigallinarum (species, taxid: 2838614, firmicutes)
+Candidatus Gemmiger faecavium (species, taxid: 2838611, firmicutes)
+unclassified Gemmiger (no-rank, taxid: 2630008, firmicutes)
+Gemmiger formicilis (species, taxid: 745368, firmicutes)
+Candidatus Gemmiger avistercoris (species, taxid: 2838606, firmicutes)
+uncultured Gemmiger sp. (species, taxid: 1623490, firmicutes)
+Candidatus Gemmiger excrementavium (species, taxid: 2838608, firmicutes)
+Candidatus Gemmiger stercoripullorum (species, taxid: 2838615, firmicutes)
+Candidatus Gemmiger faecigallinarum (species, taxid: 2838612, firmicutes)
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Gordonibacter massiliensis -----
+Error: The taxonomy name 'Gordonibacter massiliensis' is not exact. Try using one of the suggested taxids:
+Gordonibacter massiliensis (ex Traore et al. 2017) (species, taxid: 1841863, actinobacteria)
+Gordonibacter (genus, taxid: 644652, actinobacteria)
+Gordonibacter urolithinfaciens (species, taxid: 1335613, Gordonibacter faecihominis)
+unclassified Gordonibacter (no-rank, taxid: 2634373, actinobacteria)
+Gordonibacter pamelaeae (species, taxid: 471189, actinobacteria)
+uncultured Gordonibacter sp. (species, taxid: 886349, actinobacteria)
+Gordonibacter faecis (species, taxid: 3047475, Gordonibacter sp. KGMB12511)
+Candidatus Gordonibacter avicola (species, taxid: 2838616, actinobacteria)
+Gordonibacter sp. (species, taxid: 1968902, actinobacteria)
+Arabiibacter massiliensis (species, taxid: 1870985, Gordonibacter sp. Marseille-P3078)
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Helicobacter rappini -----
+Error: There are no genome assemblies that match your query.
+Please try again using different search criteria.
+
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Intestinimonas massiliensis -----
+Error: There are no genome assemblies that match your query.
+Please try again using different search criteria.
+
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Lachnoclostridium phocaeensis -----
+Error: The taxonomy name 'Lachnoclostridium phocaeensis' is not exact. Try using one of the suggested taxids:
+Lachnoclostridium (genus, taxid: 1506553, firmicutes)
+Clostridium pacaense (species, taxid: 1917870, Lachnoclostridium pacaense)
+unclassified Lachnoclostridium (no-rank, taxid: 2608895, firmicutes)
+Lachnoclostridium phytofermentans (species, taxid: 66219, firmicutes)
+Faecalibacillus intestinalis (species, taxid: 1982626, Lachnoclostridium sp. SNUG30099)
+Candidatus Lachnoclostridium stercoripullorum (species, taxid: 2838635, firmicutes)
+Candidatus Lachnoclostridium avicola (species, taxid: 2838631, firmicutes)
+Faecalibacillus faecis (species, taxid: 1982628, Lachnoclostridium sp. SNUG30370)
+uncultured Lachnoclostridium sp. (species, taxid: 1586779, firmicutes)
+Clostridium fessum (species, taxid: 2126740, Lachnoclostridium sp. SNUG30386)
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Lawsonibacter asaccharolyticus -----
+Error: There are no genome assemblies that match your query.
+Please try again using different search criteria.
+
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Limosilactobacillus timonensis -----
+Error: The taxonomy name 'Limosilactobacillus timonensis' is not exact. Try using one of the suggested taxids:
+Limosilactobacillus (genus, taxid: 2742598, firmicutes)
+Limosilactobacillus reuteri (species, taxid: 1598, firmicutes)
+Limosilactobacillus vaginalis (species, taxid: 1633, firmicutes)
+unclassified Limosilactobacillus (no-rank, taxid: 2742599, firmicutes)
+Limosilactobacillus portuensis (species, taxid: 2742601, firmicutes)
+Limosilactobacillus panis (species, taxid: 47493, firmicutes)
+Limosilactobacillus ingluviei (species, taxid: 148604, firmicutes)
+Limosilactobacillus fermentum (species, taxid: 1613, firmicutes)
+Limosilactobacillus balticus (species, taxid: 2759747, firmicutes)
+Limosilactobacillus mucosae (species, taxid: 97478, firmicutes)
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Massilimaliae timonensis -----
+Error: The taxonomy name 'Massilimaliae timonensis' is not exact. Try using one of the suggested taxids:
+Massiliimalia (genus, taxid: 2895461, Massilimaliae)
+Massiliimalia sp. (species, taxid: 2895463, Massilimaliae sp.)
+Massiliimalia massiliensis (species, taxid: 1852384, Massilimaliae massiliensis)
+Massiliimalia timonensis (species, taxid: 1987501, Massilimaliae sp. Marseille-P3753)
+Hoylesella timonensis (species, taxid: 386414, CFB group bacteria)
+Romboutsia timonensis (species, taxid: 1776391, firmicutes)
+Emergencia timonensis (species, taxid: 1776384, firmicutes)
+Raoultibacter timonensis (species, taxid: 1907662, actinobacteria)
+Prevotellamassilia timonensis (species, taxid: 1852370, CFB group bacteria)
+Bacteroides timonensis (species, taxid: 1470345, CFB group bacteria)
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Massilioclostridium methylpentosum -----
+Error: The taxonomy name 'Massilioclostridium methylpentosum' is not exact. Try using one of the suggested taxids:
+Massilioclostridium (genus, taxid: 1935927, firmicutes)
+unclassified Massilioclostridium (no-rank, taxid: 2631223, firmicutes)
+Massilioclostridium coli (species, taxid: 1870991, firmicutes)
+Massilioclostridium sp. (species, taxid: 1935928, firmicutes)
+[Clostridium] methylpentosum (species, taxid: 84026, firmicutes)
+[Clostridium] methylpentosum DSM 5476 (strain, taxid: 537013, firmicutes)
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Massilistercora timonensis -----
+Error: There are no genome assemblies that match your query.
+Please try again using different search criteria.
+
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Mesosutterella massiliensis -----
+Error: The taxonomy name 'Mesosutterella massiliensis' is not exact. Try using one of the suggested taxids:
+Mesosutterella (genus, taxid: 2494213, b-proteobacteria)
+unclassified Mesosutterella (no-rank, taxid: 2621220, b-proteobacteria)
+Mesosutterella multiformis (species, taxid: 2259133, b-proteobacteria)
+Mesosutterella faecium (species, taxid: 2925194, Mesosutterella sp. AGMB02718)
+Mesosutterella sp. (species, taxid: 2494230, b-proteobacteria)
+Mesosutterella porci (species, taxid: 2915351, b-proteobacteria)
+Akkermansia massiliensis (species, taxid: 2927224, verrucomicrobia)
+Phocaeicola massiliensis (species, taxid: 204516, CFB group bacteria)
+Merdimmobilis hominis (species, taxid: 2897707, Phocea massiliensis)
+Ureibacillus massiliensis (species, taxid: 292806, firmicutes)
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Muricomes contortus -----
+Error: The taxonomy name 'Muricomes contortus' is not exact. Try using one of the suggested taxids:
+Muricomes (genus, taxid: 1918542, firmicutes)
+unclassified Muricomes (no-rank, taxid: 2648333, firmicutes)
+Muricomes intestini (species, taxid: 1796634, firmicutes)
+Muricomes sp. (species, taxid: 1918608, firmicutes)
+Muricomes sp. OA1 (species, taxid: 2914165, firmicutes)
+Haemonchus contortus (species, taxid: 6289, barber pole worm)
+Haemonchus contortus RNA Virus 1 (species, taxid: 3157788, viruses)
+Haemonchus contortus RNA Virus 2 (species, taxid: 3157789, viruses)
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Muricomes fissicatena -----
+Error: The taxonomy name 'Muricomes fissicatena' is not exact. Try using one of the suggested taxids:
+Muricomes (genus, taxid: 1918542, firmicutes)
+unclassified Muricomes (no-rank, taxid: 2648333, firmicutes)
+Muricomes intestini (species, taxid: 1796634, firmicutes)
+Muricomes sp. (species, taxid: 1918608, firmicutes)
+Muricomes sp. OA1 (species, taxid: 2914165, firmicutes)
+Faecalicatena fissicatena (species, taxid: 290055, firmicutes)
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Muricomes oroticus -----
+Error: The taxonomy name 'Muricomes oroticus' is not exact. Try using one of the suggested taxids:
+Muricomes (genus, taxid: 1918542, firmicutes)
+unclassified Muricomes (no-rank, taxid: 2648333, firmicutes)
+Muricomes intestini (species, taxid: 1796634, firmicutes)
+Muricomes sp. (species, taxid: 1918608, firmicutes)
+Muricomes sp. OA1 (species, taxid: 2914165, firmicutes)
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Negativicoccus massiliensis -----
+Error: There are no genome assemblies that match your query.
+Please try again using different search criteria.
+
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Neobacillus rubiinfantis -----
+Error: The taxonomy name 'Neobacillus rubiinfantis' is not exact. Try using one of the suggested taxids:
+Neobacillus (genus, taxid: 2675232, firmicutes)
+unclassified Neobacillus (no-rank, taxid: 2675272, firmicutes)
+Neobacillus cucumis (species, taxid: 1740721, firmicutes)
+Neobacillus drentensis (species, taxid: 220684, firmicutes)
+Neobacillus niacini (species, taxid: 86668, firmicutes)
+Neobacillus bataviensis (species, taxid: 220685, firmicutes)
+Neobacillus dielmonensis (species, taxid: 1347369, firmicutes)
+Neobacillus thermocopriae (species, taxid: 1215031, firmicutes)
+Neobacillus mesonae (species, taxid: 1193713, firmicutes)
+uncultured Neobacillus sp. (species, taxid: 2877895, firmicutes)
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Neobittarella massiliensis -----
+Error: The taxonomy name 'Neobittarella massiliensis' is not exact. Try using one of the suggested taxids:
+Neobittarella massiliensis (ex Bilen et al. 2018) (species, taxid: 2041842, Neobittarella massiliensis (ex Liu et al. 2021))
+Neobittarella (ex Bilen et al. 2018) (genus, taxid: 2126544, firmicutes)
+Akkermansia massiliensis (species, taxid: 2927224, verrucomicrobia)
+Phocaeicola massiliensis (species, taxid: 204516, CFB group bacteria)
+Merdimmobilis hominis (species, taxid: 2897707, Phocea massiliensis)
+Ureibacillus massiliensis (species, taxid: 292806, firmicutes)
+Paenibacillus massiliensis (species, taxid: 225917, firmicutes)
+Anaerosalibacter massiliensis (species, taxid: 1347392, firmicutes)
+Candidatus Babela massiliensis (species, taxid: 673862, bacteria)
+Megasphaera massiliensis (species, taxid: 1232428, firmicutes)
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Odoribacter massiliensis -----
+Error: The taxonomy name 'Odoribacter massiliensis' is not exact. Try using one of the suggested taxids:
+Odoribacter (genus, taxid: 283168, CFB group bacteria)
+unclassified Odoribacter (no-rank, taxid: 2641225, CFB group bacteria)
+Candidatus Odoribacter faecigallinarum (species, taxid: 2838706, Odoribacter faecigallinarum)
+Odoribacter splanchnicus (species, taxid: 28118, CFB group bacteria)
+Odoribacter laneus (species, taxid: 626933, CFB group bacteria)
+uncultured Odoribacter sp. (species, taxid: 876416, CFB group bacteria)
+Odoribacter lunatus (species, taxid: 2941335, Odoribacter sp. DSM 112344)
+Culturomica massiliensis (species, taxid: 1841857, Odoribacter sp. Marseille-P2698)
+Odoribacter sp. (species, taxid: 1965233, CFB group bacteria)
+Odoribacter laneus YIT 12061 (strain, taxid: 742817, Odoribacter laneus JCM 16069)
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Olsenella provencensis -----
+Error: There are no genome assemblies that match your query.
+Please try again using different search criteria.
+
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Olsenella timonensis -----
+Error: There are no genome assemblies that match your query.
+Please try again using different search criteria.
+
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Parolsenella massiliensis -----
+Error: There are no genome assemblies that match your query.
+Please try again using different search criteria.
+
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Parolsenella uli -----
+Error: The taxonomy name 'Parolsenella uli' is not exact. Try using one of the suggested taxids:
+Parolsenella (genus, taxid: 2082587, actinobacteria)
+unclassified Parolsenella (no-rank, taxid: 2623992, actinobacteria)
+Parolsenella massiliensis (species, taxid: 1871022, actinobacteria)
+uncultured Parolsenella sp. (species, taxid: 2083008, actinobacteria)
+Parolsenella catena (species, taxid: 2003188, actinobacteria)
+Parolsenella sp. (species, taxid: 2083006, actinobacteria)
+Parolsenella sp. LCP21S3_E11 (species, taxid: 3438797, actinobacteria)
+Olsenella uli (species, taxid: 133926, actinobacteria)
+Vaccinium uliginosum (species, taxid: 190548, bog bilberry)
+Uliginosibacterium (genus, taxid: 392735, b-proteobacteria)
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Pauljensenia bouchesdurhonensis -----
+Error: The taxonomy name 'Pauljensenia bouchesdurhonensis' is not exact. Try using one of the suggested taxids:
+Pauljensenia (genus, taxid: 2740557, high G+C Gram-positive bacteria)
+unclassified Pauljensenia (no-rank, taxid: 2908895, high G+C Gram-positive bacteria)
+Pauljensenia hongkongensis (species, taxid: 178339, high G+C Gram-positive bacteria)
+Pauljensenia sp. (species, taxid: 2953801, high G+C Gram-positive bacteria)
+Pauljensenia sp. 27098_8_83 (species, taxid: 3003671, high G+C Gram-positive bacteria)
+Pauljensenia sp. 20925_1_91 (species, taxid: 3003673, high G+C Gram-positive bacteria)
+Pauljensenia sp. 20925_1_34 (species, taxid: 3003674, high G+C Gram-positive bacteria)
+Pauljensenia sp. 20925_1_27 (species, taxid: 3003675, high G+C Gram-positive bacteria)
+Pauljensenia sp. UMB10120 (species, taxid: 3046356, high G+C Gram-positive bacteria)
+Pauljensenia sp. UMB0018B (species, taxid: 3046320, high G+C Gram-positive bacteria)
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Pauljensenia cardiffensis -----
+Error: The taxonomy name 'Pauljensenia cardiffensis' is not exact. Try using one of the suggested taxids:
+Pauljensenia (genus, taxid: 2740557, high G+C Gram-positive bacteria)
+unclassified Pauljensenia (no-rank, taxid: 2908895, high G+C Gram-positive bacteria)
+Pauljensenia hongkongensis (species, taxid: 178339, high G+C Gram-positive bacteria)
+Pauljensenia sp. (species, taxid: 2953801, high G+C Gram-positive bacteria)
+Pauljensenia sp. 27098_8_83 (species, taxid: 3003671, high G+C Gram-positive bacteria)
+Pauljensenia sp. 20925_1_91 (species, taxid: 3003673, high G+C Gram-positive bacteria)
+Pauljensenia sp. 20925_1_34 (species, taxid: 3003674, high G+C Gram-positive bacteria)
+Pauljensenia sp. 20925_1_27 (species, taxid: 3003675, high G+C Gram-positive bacteria)
+Pauljensenia sp. UMB10120 (species, taxid: 3046356, high G+C Gram-positive bacteria)
+Pauljensenia sp. UMB0018B (species, taxid: 3046320, high G+C Gram-positive bacteria)
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Pauljensenia culturomici -----
+Error: The taxonomy name 'Pauljensenia culturomici' is not exact. Try using one of the suggested taxids:
+Pauljensenia (genus, taxid: 2740557, high G+C Gram-positive bacteria)
+unclassified Pauljensenia (no-rank, taxid: 2908895, high G+C Gram-positive bacteria)
+Pauljensenia hongkongensis (species, taxid: 178339, high G+C Gram-positive bacteria)
+Pauljensenia sp. (species, taxid: 2953801, high G+C Gram-positive bacteria)
+Pauljensenia sp. 27098_8_83 (species, taxid: 3003671, high G+C Gram-positive bacteria)
+Pauljensenia sp. 20925_1_91 (species, taxid: 3003673, high G+C Gram-positive bacteria)
+Pauljensenia sp. 20925_1_34 (species, taxid: 3003674, high G+C Gram-positive bacteria)
+Pauljensenia sp. 20925_1_27 (species, taxid: 3003675, high G+C Gram-positive bacteria)
+Pauljensenia sp. UMB10120 (species, taxid: 3046356, high G+C Gram-positive bacteria)
+Pauljensenia sp. UMB0018B (species, taxid: 3046320, high G+C Gram-positive bacteria)
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Pauljensenia polynesiensis -----
+Error: The taxonomy name 'Pauljensenia polynesiensis' is not exact. Try using one of the suggested taxids:
+Pauljensenia (genus, taxid: 2740557, high G+C Gram-positive bacteria)
+unclassified Pauljensenia (no-rank, taxid: 2908895, high G+C Gram-positive bacteria)
+Pauljensenia hongkongensis (species, taxid: 178339, high G+C Gram-positive bacteria)
+Pauljensenia sp. (species, taxid: 2953801, high G+C Gram-positive bacteria)
+Pauljensenia sp. 27098_8_83 (species, taxid: 3003671, high G+C Gram-positive bacteria)
+Pauljensenia sp. 20925_1_91 (species, taxid: 3003673, high G+C Gram-positive bacteria)
+Pauljensenia sp. 20925_1_34 (species, taxid: 3003674, high G+C Gram-positive bacteria)
+Pauljensenia sp. 20925_1_27 (species, taxid: 3003675, high G+C Gram-positive bacteria)
+Pauljensenia sp. UMB10120 (species, taxid: 3046356, high G+C Gram-positive bacteria)
+Pauljensenia sp. UMB0018B (species, taxid: 3046320, high G+C Gram-positive bacteria)
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Pauljensenia radingae -----
+Error: The taxonomy name 'Pauljensenia radingae' is not exact. Try using one of the suggested taxids:
+Pauljensenia (genus, taxid: 2740557, high G+C Gram-positive bacteria)
+unclassified Pauljensenia (no-rank, taxid: 2908895, high G+C Gram-positive bacteria)
+Pauljensenia hongkongensis (species, taxid: 178339, high G+C Gram-positive bacteria)
+Pauljensenia sp. (species, taxid: 2953801, high G+C Gram-positive bacteria)
+Pauljensenia sp. 27098_8_83 (species, taxid: 3003671, high G+C Gram-positive bacteria)
+Pauljensenia sp. 20925_1_91 (species, taxid: 3003673, high G+C Gram-positive bacteria)
+Pauljensenia sp. 20925_1_34 (species, taxid: 3003674, high G+C Gram-positive bacteria)
+Pauljensenia sp. 20925_1_27 (species, taxid: 3003675, high G+C Gram-positive bacteria)
+Pauljensenia sp. UMB10120 (species, taxid: 3046356, high G+C Gram-positive bacteria)
+Pauljensenia sp. UMB0018B (species, taxid: 3046320, high G+C Gram-positive bacteria)
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Pauljensenia turicensis -----
+Error: The taxonomy name 'Pauljensenia turicensis' is not exact. Try using one of the suggested taxids:
+Pauljensenia (genus, taxid: 2740557, high G+C Gram-positive bacteria)
+unclassified Pauljensenia (no-rank, taxid: 2908895, high G+C Gram-positive bacteria)
+Pauljensenia hongkongensis (species, taxid: 178339, high G+C Gram-positive bacteria)
+Pauljensenia sp. (species, taxid: 2953801, high G+C Gram-positive bacteria)
+Pauljensenia sp. 27098_8_83 (species, taxid: 3003671, high G+C Gram-positive bacteria)
+Pauljensenia sp. 20925_1_91 (species, taxid: 3003673, high G+C Gram-positive bacteria)
+Pauljensenia sp. 20925_1_34 (species, taxid: 3003674, high G+C Gram-positive bacteria)
+Pauljensenia sp. 20925_1_27 (species, taxid: 3003675, high G+C Gram-positive bacteria)
+Pauljensenia sp. UMB10120 (species, taxid: 3046356, high G+C Gram-positive bacteria)
+Pauljensenia sp. UMB0018B (species, taxid: 3046320, high G+C Gram-positive bacteria)
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Peptoniphilus urinimassiliensis -----
+Error: There are no genome assemblies that match your query.
+Please try again using different search criteria.
+
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Phocaeicola ilei -----
+Error: The taxonomy name 'Phocaeicola ilei' is not exact. Try using one of the suggested taxids:
+Phocaeicola (genus, taxid: 909656, CFB group bacteria)
+Bacteroides gallinaceum (species, taxid: 1462571, Phocaeicola gallinaceus)
+Phocaeicola sartorii (species, taxid: 671267, Phocaeicola chinchillae)
+Candidatus Phocaeicola gallinarum (species, taxid: 2838734, Phocaeicola gallinarum)
+unclassified Phocaeicola (no-rank, taxid: 2762211, CFB group bacteria)
+Phocaeicola vulgatus (species, taxid: 821, CFB group bacteria)
+Phocaeicola dorei (species, taxid: 357276, CFB group bacteria)
+Phocaeicola coprocola (species, taxid: 310298, CFB group bacteria)
+Phocaeicola plebeius (species, taxid: 310297, CFB group bacteria)
+Phocaeicola coprophilus (species, taxid: 387090, CFB group bacteria)
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Phocaeicola mediterraneensis -----
+Error: The taxonomy name 'Phocaeicola mediterraneensis' is not exact. Try using one of the suggested taxids:
+Phocaeicola (genus, taxid: 909656, CFB group bacteria)
+Bacteroides gallinaceum (species, taxid: 1462571, Phocaeicola gallinaceus)
+Phocaeicola sartorii (species, taxid: 671267, Phocaeicola chinchillae)
+Candidatus Phocaeicola gallinarum (species, taxid: 2838734, Phocaeicola gallinarum)
+unclassified Phocaeicola (no-rank, taxid: 2762211, CFB group bacteria)
+Phocaeicola vulgatus (species, taxid: 821, CFB group bacteria)
+Phocaeicola dorei (species, taxid: 357276, CFB group bacteria)
+Phocaeicola coprocola (species, taxid: 310298, CFB group bacteria)
+Phocaeicola plebeius (species, taxid: 310297, CFB group bacteria)
+Phocaeicola coprophilus (species, taxid: 387090, CFB group bacteria)
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Phytobacter diazotrophicus -----
+Error: There are no genome assemblies that match your query.
+Please try again using different search criteria.
+
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Pseudobutyrivibrio fibrisolvens -----
+Error: The taxonomy name 'Pseudobutyrivibrio fibrisolvens' is not exact. Try using one of the suggested taxids:
+Pseudobutyrivibrio (genus, taxid: 46205, firmicutes)
+Pseudobutyrivibrio xylanivorans (species, taxid: 185007, Pseudobutyrivibrio xylanovorans)
+unclassified Pseudobutyrivibrio (no-rank, taxid: 2638619, firmicutes)
+Pseudobutyrivibrio ruminis (species, taxid: 46206, firmicutes)
+uncultured Pseudobutyrivibrio sp. (species, taxid: 557192, firmicutes)
+Pseudobutyrivibrio sp. (species, taxid: 2014367, firmicutes)
+Pseudobutyrivibrio sp. UBA3836 (species, taxid: 1947300, firmicutes)
+Pseudobutyrivibrio sp. UBA3655 (species, taxid: 1947298, firmicutes)
+Pseudobutyrivibrio sp. JW11 (species, taxid: 1855302, firmicutes)
+Pseudobutyrivibrio sp. AR14 (species, taxid: 1520804, firmicutes)
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Romboutsia dakarensis -----
+Error: The taxonomy name 'Romboutsia dakarensis' is not exact. Try using one of the suggested taxids:
+Romboutsia (genus, taxid: 1501226, firmicutes)
+unclassified Romboutsia (no-rank, taxid: 2626894, firmicutes)
+Romboutsia hominis (species, taxid: 1507512, firmicutes)
+uncultured Romboutsia sp. (species, taxid: 1505656, firmicutes)
+Romboutsia lituseburensis (species, taxid: 1537, firmicutes)
+Romboutsia maritimum (species, taxid: 2020948, firmicutes)
+Romboutsia sedimentorum (species, taxid: 1368474, firmicutes)
+Romboutsia sp. (species, taxid: 1965302, firmicutes)
+Romboutsia timonensis (species, taxid: 1776391, firmicutes)
+Romboutsia ilealis (species, taxid: 1115758, firmicutes)
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Ruminiclostridium siraeum -----
+Error: There are no genome assemblies that match your query.
+Please try again using different search criteria.
+
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Ruminococcus bicirculans -----
+Error: The taxonomy name 'Ruminococcus bicirculans' is not exact. Try using one of the suggested taxids:
+Ruminococcus bicirculans (ex Liu et al. 2021) (species, taxid: 3062497, firmicutes)
+Ruminococcus bicirculans (ex Wegman et al. 2014) (species, taxid: 1160721, firmicutes)
+Ruminococcus (genus, taxid: 1263, firmicutes)
+Mediterraneibacter gnavus (species, taxid: 33038, Ruminococcus gnavus)
+[Ruminococcus] torques (species, taxid: 33039, firmicutes)
+Blautia obeum (species, taxid: 40520, Ruminococcus obeum)
+Mediterraneibacter faecis (species, taxid: 592978, Ruminococcus faecis)
+[Ruminococcus] lactaris (species, taxid: 46228, firmicutes)
+Hominimerdicola alba (species, taxid: 1264, Ruminococcus albus)
+Blautia producta (species, taxid: 33035, Ruminococcus productus)
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Ruminococcus faecicola -----
+Error: The taxonomy name 'Ruminococcus faecicola' is not exact. Try using one of the suggested taxids:
+Ruminococcus (genus, taxid: 1263, firmicutes)
+Mediterraneibacter gnavus (species, taxid: 33038, Ruminococcus gnavus)
+[Ruminococcus] torques (species, taxid: 33039, firmicutes)
+Blautia obeum (species, taxid: 40520, Ruminococcus obeum)
+Mediterraneibacter faecis (species, taxid: 592978, Ruminococcus faecis)
+[Ruminococcus] lactaris (species, taxid: 46228, firmicutes)
+Hominimerdicola alba (species, taxid: 1264, Ruminococcus albus)
+Ruminococcus bicirculans (ex Liu et al. 2021) (species, taxid: 3062497, Ruminococcus lentus)
+Blautia producta (species, taxid: 33035, Ruminococcus productus)
+Blautia schinkii (species, taxid: 180164, Ruminococcus schinkii)
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Schaedlerella glycyrrhizinilytica -----
+Error: The taxonomy name 'Schaedlerella glycyrrhizinilytica' is not exact. Try using one of the suggested taxids:
+Schaedlerella (genus, taxid: 2676048, firmicutes)
+unclassified Schaedlerella (no-rank, taxid: 2676056, firmicutes)
+uncultured Schaedlerella sp. (species, taxid: 2676055, firmicutes)
+Schaedlerella arabinosiphila (species, taxid: 2044587, firmicutes)
+Schaedlerella sp. (species, taxid: 2676057, firmicutes)
+Mediterraneibacter glycyrrhizinilyticus (species, taxid: 342942, s__Schaedlerella glycyrrhizinilytica_A)
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Stomatobaculum naviforme -----
+Error: The taxonomy name 'Stomatobaculum naviforme' is not exact. Try using one of the suggested taxids:
+Stomatobaculum (genus, taxid: 1213720, firmicutes)
+unclassified Stomatobaculum (no-rank, taxid: 2643635, firmicutes)
+uncultured Stomatobaculum sp. (species, taxid: 1662277, firmicutes)
+Stomatobaculum longum (species, taxid: 796942, firmicutes)
+Stomatobaculum sp. (species, taxid: 1984869, firmicutes)
+Stomatobaculum sp. F0698 (species, taxid: 3059030, firmicutes)
+Fusobacterium naviforme (species, taxid: 77917, fusobacteria)
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Tidjanibacter inops -----
+Error: The taxonomy name 'Tidjanibacter inops' is not exact. Try using one of the suggested taxids:
+Tidjanibacter (genus, taxid: 1929083, CFB group bacteria)
+unclassified Tidjanibacter (no-rank, taxid: 2633088, CFB group bacteria)
+Candidatus Tidjanibacter faecipullorum (species, taxid: 2838766, CFB group bacteria)
+uncultured Tidjanibacter sp. (species, taxid: 1929087, CFB group bacteria)
+Candidatus Tidjanibacter gallistercoris (species, taxid: 2838767, CFB group bacteria)
+Tidjanibacter massiliensis (species, taxid: 1871003, CFB group bacteria)
+Tidjanibacter sp. (species, taxid: 1929085, CFB group bacteria)
+Alistipes inops (species, taxid: 1501391, CFB group bacteria)
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Virgibacillus kapii -----
+Error: There are no genome assemblies that match your query.
+Please try again using different search criteria.
+
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Acinetobacter mesopotamicus -----
+Error: There are no genome assemblies that match your query.
+Please try again using different search criteria.
+
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Acutalibacter timonensis -----
+Error: The taxonomy name 'Acutalibacter timonensis' is not exact. Try using one of the suggested taxids:
+Acutalibacter (genus, taxid: 1918385, firmicutes)
+Acutalibacter phage Fontainebleau (species, taxid: 2951965, viruses)
+unclassified Acutalibacter (no-rank, taxid: 2620728, firmicutes)
+Candidatus Acutalibacter stercorigallinarum (species, taxid: 2838420, firmicutes)
+Candidatus Acutalibacter pullicola (species, taxid: 2838417, firmicutes)
+Acutalibacter muris (species, taxid: 1796620, firmicutes)
+Candidatus Acutalibacter pullistercoris (species, taxid: 2838418, firmicutes)
+Candidatus Acutalibacter ornithocaccae (species, taxid: 2838416, firmicutes)
+uncultured Acutalibacter sp. (species, taxid: 1918638, firmicutes)
+Candidatus Acutalibacter stercoravium (species, taxid: 2838419, firmicutes)
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
