@@ -77,5 +77,3 @@ Schaedlerella glycyrrhizinilytica
 Stomatobaculum naviforme
 Tidjanibacter inops
 Virgibacillus kapii
-Acinetobacter mesopotamicus
-Acutalibacter timonensis

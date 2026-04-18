@@ -11,9 +11,9 @@ Acutalibacter phage Fontainebleau (species, taxid: 2951965, viruses)
 unclassified Acutalibacter (no-rank, taxid: 2620728, firmicutes)
 Candidatus Acutalibacter stercorigallinarum (species, taxid: 2838420, firmicutes)
 Candidatus Acutalibacter pullicola (species, taxid: 2838417, firmicutes)
-Acutalibacter muris (species, taxid: 1796620, firmicutes)
 Candidatus Acutalibacter pullistercoris (species, taxid: 2838418, firmicutes)
 Candidatus Acutalibacter ornithocaccae (species, taxid: 2838416, firmicutes)
+Acutalibacter muris (species, taxid: 1796620, firmicutes)
 uncultured Acutalibacter sp. (species, taxid: 1918638, firmicutes)
 Candidatus Acutalibacter stercoravium (species, taxid: 2838419, firmicutes)
 
@@ -26,8 +26,8 @@ Adlercreutzia mucosicola (species, taxid: 580026, actinobacteria)
 uncultured Adlercreutzia sp. (species, taxid: 875803, actinobacteria)
 Adlercreutzia wanghongyangiae (species, taxid: 3111451, Adlercreutzia sp. R7)
 Adlercreutzia shanghongiae (species, taxid: 3111773, Adlercreutzia sp. R25)
-unclassified Adlercreutzia (no-rank, taxid: 2636013, actinobacteria)
 Adlercreutzia muris (species, taxid: 1796610, actinobacteria)
+unclassified Adlercreutzia (no-rank, taxid: 2636013, actinobacteria)
 Adlercreutzia equolifaciens (species, taxid: 446660, actinobacteria)
 Adlercreutzia rubneri (species, taxid: 2916441, actinobacteria)
 
@@ -106,8 +106,8 @@ Bariatricus (genus, taxid: 1924081, firmicutes)
 unclassified Bariatricus (no-rank, taxid: 2677046, firmicutes)
 Candidatus Bariatricus faecipullorum (species, taxid: 2838476, firmicutes)
 uncultured Bariatricus sp. (species, taxid: 1924086, firmicutes)
-Bariatricus massiliensis (species, taxid: 1745713, firmicutes)
 Bariatricus sp. (species, taxid: 1924083, firmicutes)
+Bariatricus massiliensis (species, taxid: 1745713, firmicutes)
 Bariatricus sp. HCP3S3_E12 (species, taxid: 3438906, firmicutes)
 Bariatricus sp. HCP28S3_H2 (species, taxid: 3438905, firmicutes)
 Bariatricus sp. HCP28S3_F11 (species, taxid: 3438904, firmicutes)
@@ -130,14 +130,14 @@ Use datasets download genome taxon <command> --help for detailed help about a co
 Error: The taxonomy name 'Bifidobacterium vaginale' is not exact. Try using one of the suggested taxids:
 Bifidobacterium (genus, taxid: 1678, high G+C Gram-positive bacteria)
 Bifidobacterium animalis subsp. lactis (subspecies, taxid: 302911, Bifidobacterium lactis)
-Bifidobacterium catenulatum subsp. kashiwanohense (subspecies, taxid: 630129, Bifidobacterium kashiwanohense)
 Bifidobacterium longum subsp. infantis (subspecies, taxid: 1682, Bifidobacterium infantis)
+Bifidobacterium catenulatum subsp. kashiwanohense (subspecies, taxid: 630129, Bifidobacterium kashiwanohense)
 Bifidobacterium adolescentis (species, taxid: 1680, Bifidobacterium stercoris)
 Bifidobacterium pseudolongum subsp. globosum (subspecies, taxid: 1690, Bifidobacterium globosum)
+Bifidobacterium longum (species, taxid: 216816, high G+C Gram-positive bacteria)
 Bifidobacterium bifidum (species, taxid: 1681, high G+C Gram-positive bacteria)
 Bifidobacterium breve (species, taxid: 1685, high G+C Gram-positive bacteria)
-Bifidobacterium longum (species, taxid: 216816, high G+C Gram-positive bacteria)
-Bifidobacterium longum subsp. suis (subspecies, taxid: 1695, Bifidobacterium suis)
+Bifidobacterium pullorum subsp. gallinarum (subspecies, taxid: 78344, Bifidobacterium gallinarum)
 
 Use datasets download genome taxon <command> --help for detailed help about a command.
 ----- Bittarella massiliensis -----
@@ -175,8 +175,8 @@ Candidatus Borkfalkia ceftriaxoniphila (species, taxid: 2508949, firmicutes)
 Candidatus Borkfalkia sp. (species, taxid: 2773924, Borkfalkia sp.)
 unclassified Candidatus Borkfalkia (no-rank, taxid: 2773923, unclassified Borkfalkia)
 Candidatus Borkfalkia excrementipullorum (species, taxid: 2838507, firmicutes)
-Candidatus Borkfalkia faecipullorum (species, taxid: 2838510, firmicutes)
 Candidatus Borkfalkia stercoripullorum (species, taxid: 2838511, firmicutes)
+Candidatus Borkfalkia faecipullorum (species, taxid: 2838510, firmicutes)
 Candidatus Borkfalkia excrementigallinarum (species, taxid: 2838506, firmicutes)
 Candidatus Borkfalkia faecavium (species, taxid: 2838508, firmicutes)
 Candidatus Borkfalkia faecigallinarum (species, taxid: 2838509, firmicutes)
@@ -240,8 +240,8 @@ Campylobacter lari (species, taxid: 201, Campylobacter laridis)
 Campylobacter jejuni (species, taxid: 197, e-proteobacteria)
 Campylobacter concisus (species, taxid: 199, e-proteobacteria)
 Campylobacter upsaliensis (species, taxid: 28080, e-proteobacteria)
-Campylobacter ureolyticus (species, taxid: 827, e-proteobacteria)
 Helicobacter cinaedi (species, taxid: 213, Campylobacter cinaedi)
+Campylobacter rectus (species, taxid: 203, e-proteobacteria)
 
 Use datasets download genome taxon <command> --help for detailed help about a command.
 ----- Centipeda artemidis -----
@@ -292,10 +292,10 @@ Error: The taxonomy name 'Enterovibrio hollisae' is not exact. Try using one of 
 Enterovibrio (genus, taxid: 188143, g-proteobacteria)
 Candidatus Enterovibrio escicola (species, taxid: 1927127, Enterovibrio escicola)
 Veronia pacifica (species, taxid: 1080227, Enterovibrio pacificus)
+Candidatus Enterovibrio altilux (species, taxid: 1927128, g-proteobacteria)
 Enterovibrio qingdaonensis (species, taxid: 2899818, Enterovibrio sp. ZSDZ35)
 Enterovibrio baiacu (species, taxid: 2491023, Enterovibrio sp. A649)
 Enterovibrio litoreus (species, taxid: 3241166, Enterovibrio sp. 27052020O)
-Candidatus Enterovibrio altilux (species, taxid: 1927128, g-proteobacteria)
 unclassified Enterovibrio (no-rank, taxid: 2641261, g-proteobacteria)
 Enterovibrio norvegicus (species, taxid: 188144, g-proteobacteria)
 Enterovibrio sp. (species, taxid: 1902814, g-proteobacteria)
@@ -368,8 +368,8 @@ Use datasets download genome taxon <command> --help for detailed help about a co
 ----- Ferdinandcohnia timonensis -----
 Error: The taxonomy name 'Ferdinandcohnia timonensis' is not exact. Try using one of the suggested taxids:
 Fredinandcohnia humi (species, taxid: 263474, Ferdinandcohnia humi)
-Fredinandcohnia salidurans (species, taxid: 2595041, Ferdinandcohnia salidurans)
 Fredinandcohnia (genus, taxid: 2837501, Ferdinandcohnia corrig.)
+Fredinandcohnia salidurans (species, taxid: 2595041, Ferdinandcohnia salidurans)
 Litchfieldia sinesaloumensis (species, taxid: 1926280, Ferdinandcohnia sinesaloumensis)
 Fredinandcohnia onubensis (species, taxid: 1571209, Ferdinandcohnia onubensis)
 Fredinandcohnia aciditolerans (species, taxid: 72581, Ferdinandcohnia aciditolerans)
@@ -396,11 +396,11 @@ Error: The taxonomy name 'Gemmiger variabilis' is not exact. Try using one of th
 Gemmiger (genus, taxid: 204475, firmicutes)
 Candidatus Gemmiger stercorigallinarum (species, taxid: 2838614, firmicutes)
 Candidatus Gemmiger faecavium (species, taxid: 2838611, firmicutes)
-unclassified Gemmiger (no-rank, taxid: 2630008, firmicutes)
 Gemmiger formicilis (species, taxid: 745368, firmicutes)
-Candidatus Gemmiger avistercoris (species, taxid: 2838606, firmicutes)
+unclassified Gemmiger (no-rank, taxid: 2630008, firmicutes)
 uncultured Gemmiger sp. (species, taxid: 1623490, firmicutes)
 Candidatus Gemmiger excrementavium (species, taxid: 2838608, firmicutes)
+Candidatus Gemmiger avistercoris (species, taxid: 2838606, firmicutes)
 Candidatus Gemmiger stercoripullorum (species, taxid: 2838615, firmicutes)
 Candidatus Gemmiger faecigallinarum (species, taxid: 2838612, firmicutes)
 
@@ -457,9 +457,9 @@ Limosilactobacillus (genus, taxid: 2742598, firmicutes)
 Limosilactobacillus reuteri (species, taxid: 1598, firmicutes)
 Limosilactobacillus vaginalis (species, taxid: 1633, firmicutes)
 unclassified Limosilactobacillus (no-rank, taxid: 2742599, firmicutes)
+Limosilactobacillus ingluviei (species, taxid: 148604, firmicutes)
 Limosilactobacillus portuensis (species, taxid: 2742601, firmicutes)
 Limosilactobacillus panis (species, taxid: 47493, firmicutes)
-Limosilactobacillus ingluviei (species, taxid: 148604, firmicutes)
 Limosilactobacillus fermentum (species, taxid: 1613, firmicutes)
 Limosilactobacillus balticus (species, taxid: 2759747, firmicutes)
 Limosilactobacillus mucosae (species, taxid: 97478, firmicutes)
@@ -528,7 +528,7 @@ unclassified Muricomes (no-rank, taxid: 2648333, firmicutes)
 Muricomes intestini (species, taxid: 1796634, firmicutes)
 Muricomes sp. (species, taxid: 1918608, firmicutes)
 Muricomes sp. OA1 (species, taxid: 2914165, firmicutes)
-Faecalicatena fissicatena (species, taxid: 290055, firmicutes)
+Faecalicatena fissicatena (species, taxid: 290055, Eubacterium fissicatena)
 
 Use datasets download genome taxon <command> --help for detailed help about a command.
 ----- Muricomes oroticus -----
@@ -582,10 +582,10 @@ Candidatus Odoribacter faecigallinarum (species, taxid: 2838706, Odoribacter fae
 Odoribacter splanchnicus (species, taxid: 28118, CFB group bacteria)
 Odoribacter laneus (species, taxid: 626933, CFB group bacteria)
 uncultured Odoribacter sp. (species, taxid: 876416, CFB group bacteria)
-Odoribacter lunatus (species, taxid: 2941335, Odoribacter sp. DSM 112344)
+Odoribacter lunatus (species, taxid: 2941335, CFB group bacteria)
 Culturomica massiliensis (species, taxid: 1841857, Odoribacter sp. Marseille-P2698)
+Odoribacter laneus YIT 12061 (strain, taxid: 742817, Odoribacter sp. YIT 12061)
 Odoribacter sp. (species, taxid: 1965233, CFB group bacteria)
-Odoribacter laneus YIT 12061 (strain, taxid: 742817, Odoribacter laneus JCM 16069)
 
 Use datasets download genome taxon <command> --help for detailed help about a command.
 ----- Olsenella provencensis -----
@@ -626,12 +626,12 @@ Pauljensenia (genus, taxid: 2740557, high G+C Gram-positive bacteria)
 unclassified Pauljensenia (no-rank, taxid: 2908895, high G+C Gram-positive bacteria)
 Pauljensenia hongkongensis (species, taxid: 178339, high G+C Gram-positive bacteria)
 Pauljensenia sp. (species, taxid: 2953801, high G+C Gram-positive bacteria)
-Pauljensenia sp. 27098_8_83 (species, taxid: 3003671, high G+C Gram-positive bacteria)
-Pauljensenia sp. 20925_1_91 (species, taxid: 3003673, high G+C Gram-positive bacteria)
-Pauljensenia sp. 20925_1_34 (species, taxid: 3003674, high G+C Gram-positive bacteria)
-Pauljensenia sp. 20925_1_27 (species, taxid: 3003675, high G+C Gram-positive bacteria)
 Pauljensenia sp. UMB10120 (species, taxid: 3046356, high G+C Gram-positive bacteria)
 Pauljensenia sp. UMB0018B (species, taxid: 3046320, high G+C Gram-positive bacteria)
+Pauljensenia sp. 20925_1_25 (species, taxid: 3003692, high G+C Gram-positive bacteria)
+Pauljensenia sp. UMB9872 (species, taxid: 3046352, high G+C Gram-positive bacteria)
+Pauljensenia sp. UMB8040A (species, taxid: 3046343, high G+C Gram-positive bacteria)
+Pauljensenia sp. UMB6358 (species, taxid: 3046335, high G+C Gram-positive bacteria)
 
 Use datasets download genome taxon <command> --help for detailed help about a command.
 ----- Pauljensenia cardiffensis -----
@@ -640,12 +640,12 @@ Pauljensenia (genus, taxid: 2740557, high G+C Gram-positive bacteria)
 unclassified Pauljensenia (no-rank, taxid: 2908895, high G+C Gram-positive bacteria)
 Pauljensenia hongkongensis (species, taxid: 178339, high G+C Gram-positive bacteria)
 Pauljensenia sp. (species, taxid: 2953801, high G+C Gram-positive bacteria)
-Pauljensenia sp. 27098_8_83 (species, taxid: 3003671, high G+C Gram-positive bacteria)
-Pauljensenia sp. 20925_1_91 (species, taxid: 3003673, high G+C Gram-positive bacteria)
-Pauljensenia sp. 20925_1_34 (species, taxid: 3003674, high G+C Gram-positive bacteria)
-Pauljensenia sp. 20925_1_27 (species, taxid: 3003675, high G+C Gram-positive bacteria)
 Pauljensenia sp. UMB10120 (species, taxid: 3046356, high G+C Gram-positive bacteria)
 Pauljensenia sp. UMB0018B (species, taxid: 3046320, high G+C Gram-positive bacteria)
+Pauljensenia sp. 20925_1_25 (species, taxid: 3003692, high G+C Gram-positive bacteria)
+Pauljensenia sp. UMB9872 (species, taxid: 3046352, high G+C Gram-positive bacteria)
+Pauljensenia sp. UMB8040A (species, taxid: 3046343, high G+C Gram-positive bacteria)
+Pauljensenia sp. UMB6358 (species, taxid: 3046335, high G+C Gram-positive bacteria)
 
 Use datasets download genome taxon <command> --help for detailed help about a command.
 ----- Pauljensenia culturomici -----
@@ -654,12 +654,12 @@ Pauljensenia (genus, taxid: 2740557, high G+C Gram-positive bacteria)
 unclassified Pauljensenia (no-rank, taxid: 2908895, high G+C Gram-positive bacteria)
 Pauljensenia hongkongensis (species, taxid: 178339, high G+C Gram-positive bacteria)
 Pauljensenia sp. (species, taxid: 2953801, high G+C Gram-positive bacteria)
-Pauljensenia sp. 27098_8_83 (species, taxid: 3003671, high G+C Gram-positive bacteria)
-Pauljensenia sp. 20925_1_91 (species, taxid: 3003673, high G+C Gram-positive bacteria)
-Pauljensenia sp. 20925_1_34 (species, taxid: 3003674, high G+C Gram-positive bacteria)
-Pauljensenia sp. 20925_1_27 (species, taxid: 3003675, high G+C Gram-positive bacteria)
 Pauljensenia sp. UMB10120 (species, taxid: 3046356, high G+C Gram-positive bacteria)
 Pauljensenia sp. UMB0018B (species, taxid: 3046320, high G+C Gram-positive bacteria)
+Pauljensenia sp. 20925_1_25 (species, taxid: 3003692, high G+C Gram-positive bacteria)
+Pauljensenia sp. UMB9872 (species, taxid: 3046352, high G+C Gram-positive bacteria)
+Pauljensenia sp. UMB8040A (species, taxid: 3046343, high G+C Gram-positive bacteria)
+Pauljensenia sp. UMB6358 (species, taxid: 3046335, high G+C Gram-positive bacteria)
 
 Use datasets download genome taxon <command> --help for detailed help about a command.
 ----- Pauljensenia polynesiensis -----
@@ -668,12 +668,12 @@ Pauljensenia (genus, taxid: 2740557, high G+C Gram-positive bacteria)
 unclassified Pauljensenia (no-rank, taxid: 2908895, high G+C Gram-positive bacteria)
 Pauljensenia hongkongensis (species, taxid: 178339, high G+C Gram-positive bacteria)
 Pauljensenia sp. (species, taxid: 2953801, high G+C Gram-positive bacteria)
-Pauljensenia sp. 27098_8_83 (species, taxid: 3003671, high G+C Gram-positive bacteria)
-Pauljensenia sp. 20925_1_91 (species, taxid: 3003673, high G+C Gram-positive bacteria)
-Pauljensenia sp. 20925_1_34 (species, taxid: 3003674, high G+C Gram-positive bacteria)
-Pauljensenia sp. 20925_1_27 (species, taxid: 3003675, high G+C Gram-positive bacteria)
 Pauljensenia sp. UMB10120 (species, taxid: 3046356, high G+C Gram-positive bacteria)
 Pauljensenia sp. UMB0018B (species, taxid: 3046320, high G+C Gram-positive bacteria)
+Pauljensenia sp. 20925_1_25 (species, taxid: 3003692, high G+C Gram-positive bacteria)
+Pauljensenia sp. UMB9872 (species, taxid: 3046352, high G+C Gram-positive bacteria)
+Pauljensenia sp. UMB8040A (species, taxid: 3046343, high G+C Gram-positive bacteria)
+Pauljensenia sp. UMB6358 (species, taxid: 3046335, high G+C Gram-positive bacteria)
 
 Use datasets download genome taxon <command> --help for detailed help about a command.
 ----- Pauljensenia radingae -----
@@ -682,12 +682,12 @@ Pauljensenia (genus, taxid: 2740557, high G+C Gram-positive bacteria)
 unclassified Pauljensenia (no-rank, taxid: 2908895, high G+C Gram-positive bacteria)
 Pauljensenia hongkongensis (species, taxid: 178339, high G+C Gram-positive bacteria)
 Pauljensenia sp. (species, taxid: 2953801, high G+C Gram-positive bacteria)
-Pauljensenia sp. 27098_8_83 (species, taxid: 3003671, high G+C Gram-positive bacteria)
-Pauljensenia sp. 20925_1_91 (species, taxid: 3003673, high G+C Gram-positive bacteria)
-Pauljensenia sp. 20925_1_34 (species, taxid: 3003674, high G+C Gram-positive bacteria)
-Pauljensenia sp. 20925_1_27 (species, taxid: 3003675, high G+C Gram-positive bacteria)
 Pauljensenia sp. UMB10120 (species, taxid: 3046356, high G+C Gram-positive bacteria)
 Pauljensenia sp. UMB0018B (species, taxid: 3046320, high G+C Gram-positive bacteria)
+Pauljensenia sp. 20925_1_25 (species, taxid: 3003692, high G+C Gram-positive bacteria)
+Pauljensenia sp. UMB9872 (species, taxid: 3046352, high G+C Gram-positive bacteria)
+Pauljensenia sp. UMB8040A (species, taxid: 3046343, high G+C Gram-positive bacteria)
+Pauljensenia sp. UMB6358 (species, taxid: 3046335, high G+C Gram-positive bacteria)
 
 Use datasets download genome taxon <command> --help for detailed help about a command.
 ----- Pauljensenia turicensis -----
@@ -696,12 +696,12 @@ Pauljensenia (genus, taxid: 2740557, high G+C Gram-positive bacteria)
 unclassified Pauljensenia (no-rank, taxid: 2908895, high G+C Gram-positive bacteria)
 Pauljensenia hongkongensis (species, taxid: 178339, high G+C Gram-positive bacteria)
 Pauljensenia sp. (species, taxid: 2953801, high G+C Gram-positive bacteria)
-Pauljensenia sp. 27098_8_83 (species, taxid: 3003671, high G+C Gram-positive bacteria)
-Pauljensenia sp. 20925_1_91 (species, taxid: 3003673, high G+C Gram-positive bacteria)
-Pauljensenia sp. 20925_1_34 (species, taxid: 3003674, high G+C Gram-positive bacteria)
-Pauljensenia sp. 20925_1_27 (species, taxid: 3003675, high G+C Gram-positive bacteria)
 Pauljensenia sp. UMB10120 (species, taxid: 3046356, high G+C Gram-positive bacteria)
 Pauljensenia sp. UMB0018B (species, taxid: 3046320, high G+C Gram-positive bacteria)
+Pauljensenia sp. 20925_1_25 (species, taxid: 3003692, high G+C Gram-positive bacteria)
+Pauljensenia sp. UMB9872 (species, taxid: 3046352, high G+C Gram-positive bacteria)
+Pauljensenia sp. UMB8040A (species, taxid: 3046343, high G+C Gram-positive bacteria)
+Pauljensenia sp. UMB6358 (species, taxid: 3046335, high G+C Gram-positive bacteria)
 
 Use datasets download genome taxon <command> --help for detailed help about a command.
 ----- Peptoniphilus urinimassiliensis -----
@@ -721,7 +721,7 @@ Phocaeicola vulgatus (species, taxid: 821, CFB group bacteria)
 Phocaeicola dorei (species, taxid: 357276, CFB group bacteria)
 Phocaeicola coprocola (species, taxid: 310298, CFB group bacteria)
 Phocaeicola plebeius (species, taxid: 310297, CFB group bacteria)
-Phocaeicola coprophilus (species, taxid: 387090, CFB group bacteria)
+Phocaeicola massiliensis (species, taxid: 204516, CFB group bacteria)
 
 Use datasets download genome taxon <command> --help for detailed help about a command.
 ----- Phocaeicola mediterraneensis -----
@@ -732,8 +732,8 @@ Phocaeicola sartorii (species, taxid: 671267, Phocaeicola chinchillae)
 Candidatus Phocaeicola gallinarum (species, taxid: 2838734, Phocaeicola gallinarum)
 unclassified Phocaeicola (no-rank, taxid: 2762211, CFB group bacteria)
 Phocaeicola vulgatus (species, taxid: 821, CFB group bacteria)
-Phocaeicola dorei (species, taxid: 357276, CFB group bacteria)
 Phocaeicola coprocola (species, taxid: 310298, CFB group bacteria)
+Phocaeicola dorei (species, taxid: 357276, CFB group bacteria)
 Phocaeicola plebeius (species, taxid: 310297, CFB group bacteria)
 Phocaeicola coprophilus (species, taxid: 387090, CFB group bacteria)
 
@@ -767,9 +767,9 @@ uncultured Romboutsia sp. (species, taxid: 1505656, firmicutes)
 Romboutsia lituseburensis (species, taxid: 1537, firmicutes)
 Romboutsia maritimum (species, taxid: 2020948, firmicutes)
 Romboutsia sedimentorum (species, taxid: 1368474, firmicutes)
-Romboutsia sp. (species, taxid: 1965302, firmicutes)
 Romboutsia timonensis (species, taxid: 1776391, firmicutes)
 Romboutsia ilealis (species, taxid: 1115758, firmicutes)
+Romboutsia sp. (species, taxid: 1965302, firmicutes)
 
 Use datasets download genome taxon <command> --help for detailed help about a command.
 ----- Ruminiclostridium siraeum -----
@@ -784,7 +784,7 @@ Ruminococcus bicirculans (ex Liu et al. 2021) (species, taxid: 3062497, firmicut
 Ruminococcus bicirculans (ex Wegman et al. 2014) (species, taxid: 1160721, firmicutes)
 Ruminococcus (genus, taxid: 1263, firmicutes)
 Mediterraneibacter gnavus (species, taxid: 33038, Ruminococcus gnavus)
-[Ruminococcus] torques (species, taxid: 33039, firmicutes)
+Mediterraneibacter torques (species, taxid: 33039, Ruminococcus torques)
 Blautia obeum (species, taxid: 40520, Ruminococcus obeum)
 Mediterraneibacter faecis (species, taxid: 592978, Ruminococcus faecis)
 [Ruminococcus] lactaris (species, taxid: 46228, firmicutes)
@@ -796,7 +796,7 @@ Use datasets download genome taxon <command> --help for detailed help about a co
 Error: The taxonomy name 'Ruminococcus faecicola' is not exact. Try using one of the suggested taxids:
 Ruminococcus (genus, taxid: 1263, firmicutes)
 Mediterraneibacter gnavus (species, taxid: 33038, Ruminococcus gnavus)
-[Ruminococcus] torques (species, taxid: 33039, firmicutes)
+Mediterraneibacter torques (species, taxid: 33039, Ruminococcus torques)
 Blautia obeum (species, taxid: 40520, Ruminococcus obeum)
 Mediterraneibacter faecis (species, taxid: 592978, Ruminococcus faecis)
 [Ruminococcus] lactaris (species, taxid: 46228, firmicutes)
@@ -843,25 +843,5 @@ Use datasets download genome taxon <command> --help for detailed help about a co
 Error: There are no genome assemblies that match your query.
 Please try again using different search criteria.
 
-
-Use datasets download genome taxon <command> --help for detailed help about a command.
------ Acinetobacter mesopotamicus -----
-Error: There are no genome assemblies that match your query.
-Please try again using different search criteria.
-
-
-Use datasets download genome taxon <command> --help for detailed help about a command.
------ Acutalibacter timonensis -----
-Error: The taxonomy name 'Acutalibacter timonensis' is not exact. Try using one of the suggested taxids:
-Acutalibacter (genus, taxid: 1918385, firmicutes)
-Acutalibacter phage Fontainebleau (species, taxid: 2951965, viruses)
-unclassified Acutalibacter (no-rank, taxid: 2620728, firmicutes)
-Candidatus Acutalibacter stercorigallinarum (species, taxid: 2838420, firmicutes)
-Candidatus Acutalibacter pullicola (species, taxid: 2838417, firmicutes)
-Acutalibacter muris (species, taxid: 1796620, firmicutes)
-Candidatus Acutalibacter pullistercoris (species, taxid: 2838418, firmicutes)
-Candidatus Acutalibacter ornithocaccae (species, taxid: 2838416, firmicutes)
-uncultured Acutalibacter sp. (species, taxid: 1918638, firmicutes)
-Candidatus Acutalibacter stercoravium (species, taxid: 2838419, firmicutes)
 
 Use datasets download genome taxon <command> --help for detailed help about a command.
