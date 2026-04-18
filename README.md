@@ -27,7 +27,7 @@ Retrieve the v2.0.2 UHGG metadata containing **289,231** human gut genomes.
 wget https://ftp.ebi.ac.uk/pub/databases/metagenomics/mgnify_genomes/human-gut/v2.0.2/genomes-all_metadata.tsv
 ```
 ```bash
-tail -n +2 genomes-all_metadata.tsv | wc -l
+tail -n +2 genomes-all_metadata.tsv | wc -l # 289,231
 ```
 
 ### 2. Parse Species Names
