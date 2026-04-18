@@ -94,11 +94,11 @@ gzip UHGG.fasta
 
 ```text
 .
-├── download_proteomes.sh
 ├── downloads/                  # Zipped genome packages from NCBI
+├── logs/                       # Tracking success/fails & parsing stages
+├── download_proteomes.sh
 ├── extract_proteins.sh
 ├── genomes-all_metadata.tsv    # Raw UHGG metadata
-├── logs/                       # Tracking success/fails & parsing stages
 ├── README.md               
 ├── species.txt                 # Cleaned target list of species
 ├── UHGG.fasta                  # Extracted FASTA database (if unzipped)
