@@ -107,6 +107,11 @@ gzip UHGG.fasta
 
 ## 🛠️ Downstream Usage
 
+You can directly download the `UHGG.fasta.gz`
+```bash
+wget https://github.com/Soash/uhgg-proteome-pipeline/raw/refs/heads/main/UHGG.fasta.gz
+```
+
 The resulting `UHGG.fasta.gz` can be used for local alignment searches. Depending on your tool of choice, you can use standard BLAST or a faster alternative like DIAMOND (which natively supports `.gz` inputs).
 
 ### Option A: Using DIAMOND (Recommended for large databases)
