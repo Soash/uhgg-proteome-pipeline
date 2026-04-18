@@ -128,9 +128,8 @@ If you prefer standard NCBI BLAST, you must uncompress the database first.
 
 ```bash
 # Unzip for standard BLAST
-gunzip -c UHGG.fasta.gz > blast/UHGG.fasta
-
 mkdir -p blast
+gunzip -c UHGG.fasta.gz > blast/UHGG.fasta
 
 # Build BLAST database
 makeblastdb -in blast/UHGG.fasta -dbtype prot -out blast/uhgg_db
